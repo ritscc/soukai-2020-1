@@ -1,0 +1,71 @@
+# RCC 自動生成用テンプレート
+# 【書式】 filename: タイトル,姓 名,GitHubID
+# （例）1kai: 1回生総括,RCC 太郎,ritscc-master
+#
+# 回生別のファイル名は変更しないでください
+# それ以外のファイル名は先頭に数字を付けることで、順番を制御できます
+# 数字が一桁の場合は先頭に0をつけてください．
+---
+hajimeni: はじめに,原 佑馬,Hara-Yuma
+soukatsu:
+  zentai:
+    01_zentai: 前期活動総括,原 佑馬,Hara-Yuma
+    02_unei: 運営総括,西見 元希,3to5thpower
+#    03_sinkan: 新刊総括,黒柳 裕大,mikufia
+    04_welcome: Welcomeゼミ総括,阿部 竜也,averak
+    05_project: プロジェクト活動総括,八木田 裕伍,ygkn
+  1kai: 1回生総括,星名 藍乃介,Ran350
+  2kai: 2回生総括,桐井 優実,yuyueuph
+  3kai: 3回生総括,髙山 紗世梨,Sayori13
+
+
+
+  kaikei:
+    01_zentai: 全体総括,小柳 雅文,Koyanagi-Masafumi
+  kensui:
+    01_zentai: 全体総括,八木田 裕伍,ygkn
+    02_project: プロジェクト活動総括,中尾 龍矢,Ta-2
+    03_LT: LT総括,深田 紘希,fukada6280
+  syogai:
+    01_zentai: 全体総括,阿部 竜也,averak
+#    02_kyokukaigi: 局会議総括,黒柳 裕大,mikufia
+    03_twitter: 会公式Twitter総括,星名 藍乃介,Ran350
+#    04_web: Webサイト総括,水野 悟朗,mizugoro
+  system:
+    01_zentai: 全体総括,齋藤 竜也,tatsuya999
+    02_kyokukaigi: 局会議総括,桐井 優実,yuyueuph
+    03_study: 勉強会総括,宇佐 基史,thetaleisalsowhite
+    04_server: サーバー管理総括,齋藤 竜也,tatsuya999
+    05_hikitugi: 引き継ぎ総括,宇佐 基史,thetaleisalsowhite
+  soumu:
+    01_zentai: 全体総括,堀田 隆成,Drunknow
+houshin:
+  zentai:
+    01_zentai: 後期活動方針,原 佑馬,Hara-Yuma
+    02_unei: 運営方針,西見 元希,3to5thpower
+    03_project: プロジェクト活動方針,八木田 裕伍,ygkn
+
+#  1kai: 1回生方針,水野 悟朗,mizugoro
+  2kai: 2回生方針,宇佐 基史,thetaleisalsowhite
+  3kai: 3回生方針,髙山 紗世梨,Sayori13
+
+  kaikei:
+#    01_zentai: 全体方針,田邊 雄士,Tanabe-616
+  kensui:
+    01_zentai: 全体方針,八木田 裕伍,ygkn
+    02_project: プロジェクト活動方針,中尾 龍矢,Ta-2
+    03_LT: LT方針,深田 紘希,fukada6280
+  syogai:
+    01_zentai: 全体方針,阿部 竜也,averak
+#    02_kyokukaigi: 局会議方針,黒柳 裕大,mikufia
+    03_twitter: 会公式Twitter方針,星名 藍乃介,Ran350
+#    04_web: Webサイト方針,水野 悟朗,mizugoro
+  system:
+    01_zentai: 全体方針,齋藤 竜也,tatsuya999
+    02_kyokukaigi: 局会議方針,桐井 優実,yuyueuph
+    03_study: 勉強会方針,宇佐 基史,thetaleisalsowhite
+    04_server: サーバ管理業務,齋藤 竜也,tatsuya999
+    05_hikitugi: 引き継ぎ方針,桐井 優実,yuyueuph
+    06_shinkyokuin: 新局員方針,宇佐 基史,thetaleisalsowhite
+  soumu:
+    01_zentai: 全体方針,奥川 莞多,o-kanta
